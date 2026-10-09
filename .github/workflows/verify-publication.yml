@@ -1,0 +1,19 @@
+name: Verify Unity Web publication
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify publication
+        shell: pwsh
+        run: ./Verify-Publication.ps1
+      - name: Upload reviewed static files
+        uses: actions/upload-artifact@v4
+        with:
+          name: semantropic-unity-web
+          path: site/
+          retention-days: 7

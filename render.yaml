@@ -1,0 +1,33 @@
+# Propuesta: no aplicar este Blueprint hasta autorizar la creación del Static Site.
+services:
+  - type: web
+    name: semantropic-unity-web
+    runtime: static
+    buildCommand: test -f site/index.html
+    staticPublishPath: ./site
+    autoDeployTrigger: off
+    headers:
+      - path: /Build/*.gz
+        name: Content-Encoding
+        value: gzip
+      - path: /Build/*.wasm.gz
+        name: Content-Type
+        value: application/wasm
+      - path: /Build/*.framework.js.gz
+        name: Content-Type
+        value: application/javascript
+      - path: /Build/*.data.gz
+        name: Content-Type
+        value: application/octet-stream
+      - path: /Build/*.loader.js
+        name: Content-Type
+        value: application/javascript
+      - path: /index.html
+        name: Cache-Control
+        value: no-cache
+      - path: /
+        name: Cache-Control
+        value: no-cache
+      - path: /Build/*
+        name: Cache-Control
+        value: public, max-age=3600
