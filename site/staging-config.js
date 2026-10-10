@@ -1,0 +1,1 @@
+window.SEMANTROPIC_STAGING_BACKEND = "http://127.0.0.1:8799";

@@ -1,0 +1,30 @@
+services:
+  - type: web
+    name: semantropic-survival019-staging-web
+    branch: staging/survival019
+    runtime: static
+    buildCommand: node configure-staging.cjs
+    staticPublishPath: ./publish
+    autoDeployTrigger: off
+    envVars:
+      - key: STAGING_BACKEND_URL
+        sync: false
+    headers:
+      - path: /Build/*.gz
+        name: Content-Encoding
+        value: gzip
+      - path: /Build/*.wasm.gz
+        name: Content-Type
+        value: application/wasm
+      - path: /Build/*.js.gz
+        name: Content-Type
+        value: application/javascript
+      - path: /Build/*.data.gz
+        name: Content-Type
+        value: application/octet-stream
+      - path: /Build/*.loader.js
+        name: Content-Type
+        value: application/javascript
+      - path: /*
+        name: Cache-Control
+        value: no-store

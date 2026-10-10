@@ -1,0 +1,100 @@
+{
+  "backend": "http://127.0.0.1:8799",
+  "files": [
+    {
+      "path": "Build/Survival019Staging.data.gz",
+      "bytes": 94208869,
+      "sha256": "AACF3249EF49ADF7927D0D5893439F1AFDA79DE462846F3BDC9F1E54E2CA04F9"
+    },
+    {
+      "path": "Build/Survival019Staging.framework.js.gz",
+      "bytes": 87880,
+      "sha256": "B7918D85DBB87A9A3984785B141B70DA7505E0188FE63DF34C31A1A7403B8766"
+    },
+    {
+      "path": "Build/Survival019Staging.loader.js",
+      "bytes": 26983,
+      "sha256": "A7B3D84C372B6E3D22CBB983DEE05A37D36F874A27FBE37F8D42F7EB0F1EE32B"
+    },
+    {
+      "path": "Build/Survival019Staging.wasm.gz",
+      "bytes": 8347436,
+      "sha256": "DE4C097A064A1F92F079C92B21A91B666704AAC5B23FBC24DFC19B2AA91B34B3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 6006,
+      "sha256": "7198BFED63007BA4C66F07F22AE5CA3BAFEE5E51CC65120F3438962489E65F0C"
+    },
+    {
+      "path": "staging-config.js",
+      "bytes": 62,
+      "sha256": "2F7ACC03E6FE078C2559B415AB6A7E85448594155E58952359736169AB919030"
+    },
+    {
+      "path": "StreamingAssets/general_questions.json",
+      "bytes": 422364,
+      "sha256": "92C54F83A622044B30BA3AA6CEA787000110C398EB2989116DF396C7F1FD5D69"
+    },
+    {
+      "path": "TemplateData/favicon.ico",
+      "bytes": 2305,
+      "sha256": "9C13BEB90EE8F70580D52A21D5233970D1C89E71E4A34A462C22610941C3C77F"
+    },
+    {
+      "path": "TemplateData/fullscreen-button.png",
+      "bytes": 175,
+      "sha256": "21221581673A54B8139D408D4A3F8D2B879E86827D4B6FC53B995FF7A99EE3E9"
+    },
+    {
+      "path": "TemplateData/MemoryProfiler.png",
+      "bytes": 665,
+      "sha256": "0CE87BE20D0C24AB6CB73B57DE2004DA261CC2A641E69319C6AE3FE11FC85483"
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-dark.png",
+      "bytes": 96,
+      "sha256": "BBEE7131AFE8A3365906240D89184DC86234C119467F390BC4BC6802328FDB4D"
+    },
+    {
+      "path": "TemplateData/progress-bar-empty-light.png",
+      "bytes": 109,
+      "sha256": "143696C060AD43D6C30F19FF5F49000927A139A2A1E4C9F45FAFAA2B90D7D2BE"
+    },
+    {
+      "path": "TemplateData/progress-bar-full-dark.png",
+      "bytes": 74,
+      "sha256": "3306A6244DCB3926FCA38A28E3CED589DF8FF1BEED955EB17C0BBF01C918BC62"
+    },
+    {
+      "path": "TemplateData/progress-bar-full-light.png",
+      "bytes": 84,
+      "sha256": "12395EA785480C5CDF12FADE6E6CBF49666D5BB1CEF7240C113DBCBA6BDC5C87"
+    },
+    {
+      "path": "TemplateData/style.css",
+      "bytes": 1448,
+      "sha256": "8E3625E108A61DCD1D31303376D9E02D7BDC08921D254E8F4359B892B3825CAA"
+    },
+    {
+      "path": "TemplateData/unity-logo-dark.png",
+      "bytes": 3042,
+      "sha256": "C1B72D26C096487DABC948B54BC203F8DAC7ED4E3F5733918798E858ACB4B159"
+    },
+    {
+      "path": "TemplateData/unity-logo-light.png",
+      "bytes": 3077,
+      "sha256": "002990AEA0D946833CADC1519D5B7E50A4570BD537A0517DD79A59D3EEC84DA7"
+    },
+    {
+      "path": "TemplateData/unity-logo-title-footer.png",
+      "bytes": 1151,
+      "sha256": "9E8B3BDB67C2446D16362FE59449D892100931DBBADFE6A9D923A4142B57A79F"
+    },
+    {
+      "path": "TemplateData/webmemd-icon.png",
+      "bytes": 1670,
+      "sha256": "C56F5494640CEDDA273AAD38D58E6AB9DA625D5B3F4D875C0FF92C6192A569C2"
+    }
+  ]
+}
