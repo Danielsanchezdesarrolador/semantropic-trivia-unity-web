@@ -1,122 +1,125 @@
-[
-    {
-        "path":  ".gitignore",
-        "sha256":  "9AA6262944D6B7D0492AE53B529D5B7252562139FFC772B904FBDA7CF9B0D9D5",
-        "bytes":  41
-    },
-    {
-        "path":  "configure-staging.cjs",
-        "sha256":  "8962025F8ACA9FD1118B1917493D40D8719E9117047285A07E28BA9D8694826D",
-        "bytes":  1854
-    },
-    {
-        "path":  "README.md",
-        "sha256":  "F8CB45B7BCD123BC15CE52181114DE55FD251BAA66E2690C7776A2900BC63EF4",
-        "bytes":  733
-    },
-    {
-        "path":  "render.yaml",
-        "sha256":  "39B71982A108C397C2955F1A0197CA15714481B4CD8B4E88240E76ECD32683DB",
-        "bytes":  831
-    },
-    {
-        "path":  "site/Build/Survival019Staging.data.gz",
-        "sha256":  "AACF3249EF49ADF7927D0D5893439F1AFDA79DE462846F3BDC9F1E54E2CA04F9",
-        "bytes":  94208869
-    },
-    {
-        "path":  "site/Build/Survival019Staging.framework.js.gz",
-        "sha256":  "B7918D85DBB87A9A3984785B141B70DA7505E0188FE63DF34C31A1A7403B8766",
-        "bytes":  87880
-    },
-    {
-        "path":  "site/Build/Survival019Staging.loader.js",
-        "sha256":  "A7B3D84C372B6E3D22CBB983DEE05A37D36F874A27FBE37F8D42F7EB0F1EE32B",
-        "bytes":  26983
-    },
-    {
-        "path":  "site/Build/Survival019Staging.wasm.gz",
-        "sha256":  "DE4C097A064A1F92F079C92B21A91B666704AAC5B23FBC24DFC19B2AA91B34B3",
-        "bytes":  8347436
-    },
-    {
-        "path":  "site/index.html",
-        "sha256":  "7198BFED63007BA4C66F07F22AE5CA3BAFEE5E51CC65120F3438962489E65F0C",
-        "bytes":  6006
-    },
-    {
-        "path":  "site/staging-config.js",
-        "sha256":  "2F7ACC03E6FE078C2559B415AB6A7E85448594155E58952359736169AB919030",
-        "bytes":  62
-    },
-    {
-        "path":  "site/StreamingAssets/general_questions.json",
-        "sha256":  "92C54F83A622044B30BA3AA6CEA787000110C398EB2989116DF396C7F1FD5D69",
-        "bytes":  422364
-    },
-    {
-        "path":  "site/TemplateData/favicon.ico",
-        "sha256":  "9C13BEB90EE8F70580D52A21D5233970D1C89E71E4A34A462C22610941C3C77F",
-        "bytes":  2305
-    },
-    {
-        "path":  "site/TemplateData/fullscreen-button.png",
-        "sha256":  "21221581673A54B8139D408D4A3F8D2B879E86827D4B6FC53B995FF7A99EE3E9",
-        "bytes":  175
-    },
-    {
-        "path":  "site/TemplateData/MemoryProfiler.png",
-        "sha256":  "0CE87BE20D0C24AB6CB73B57DE2004DA261CC2A641E69319C6AE3FE11FC85483",
-        "bytes":  665
-    },
-    {
-        "path":  "site/TemplateData/progress-bar-empty-dark.png",
-        "sha256":  "BBEE7131AFE8A3365906240D89184DC86234C119467F390BC4BC6802328FDB4D",
-        "bytes":  96
-    },
-    {
-        "path":  "site/TemplateData/progress-bar-empty-light.png",
-        "sha256":  "143696C060AD43D6C30F19FF5F49000927A139A2A1E4C9F45FAFAA2B90D7D2BE",
-        "bytes":  109
-    },
-    {
-        "path":  "site/TemplateData/progress-bar-full-dark.png",
-        "sha256":  "3306A6244DCB3926FCA38A28E3CED589DF8FF1BEED955EB17C0BBF01C918BC62",
-        "bytes":  74
-    },
-    {
-        "path":  "site/TemplateData/progress-bar-full-light.png",
-        "sha256":  "12395EA785480C5CDF12FADE6E6CBF49666D5BB1CEF7240C113DBCBA6BDC5C87",
-        "bytes":  84
-    },
-    {
-        "path":  "site/TemplateData/style.css",
-        "sha256":  "8E3625E108A61DCD1D31303376D9E02D7BDC08921D254E8F4359B892B3825CAA",
-        "bytes":  1448
-    },
-    {
-        "path":  "site/TemplateData/unity-logo-dark.png",
-        "sha256":  "C1B72D26C096487DABC948B54BC203F8DAC7ED4E3F5733918798E858ACB4B159",
-        "bytes":  3042
-    },
-    {
-        "path":  "site/TemplateData/unity-logo-light.png",
-        "sha256":  "002990AEA0D946833CADC1519D5B7E50A4570BD537A0517DD79A59D3EEC84DA7",
-        "bytes":  3077
-    },
-    {
-        "path":  "site/TemplateData/unity-logo-title-footer.png",
-        "sha256":  "9E8B3BDB67C2446D16362FE59449D892100931DBBADFE6A9D923A4142B57A79F",
-        "bytes":  1151
-    },
-    {
-        "path":  "site/TemplateData/webmemd-icon.png",
-        "sha256":  "C56F5494640CEDDA273AAD38D58E6AB9DA625D5B3F4D875C0FF92C6192A569C2",
-        "bytes":  1670
-    },
-    {
-        "path":  "tested-site.manifest.json",
-        "sha256":  "D4B3E07AFBAD84555CFFA756C7A010A9B5E80B3761273F15A914AD9F80C1D75D",
-        "bytes":  3230
-    }
-]
+{
+    "value":  [
+                  {
+                      "path":  ".gitignore",
+                      "sha256":  "9AA6262944D6B7D0492AE53B529D5B7252562139FFC772B904FBDA7CF9B0D9D5",
+                      "bytes":  41
+                  },
+                  {
+                      "path":  "configure-staging.cjs",
+                      "sha256":  "C8E8C1C73706A8D4059A79D964ECEC32C7A5178F04686D006E0D6F9C6564B0FB",
+                      "bytes":  1883
+                  },
+                  {
+                      "path":  "README.md",
+                      "sha256":  "F8CB45B7BCD123BC15CE52181114DE55FD251BAA66E2690C7776A2900BC63EF4",
+                      "bytes":  733
+                  },
+                  {
+                      "path":  "render.yaml",
+                      "sha256":  "39B71982A108C397C2955F1A0197CA15714481B4CD8B4E88240E76ECD32683DB",
+                      "bytes":  831
+                  },
+                  {
+                      "path":  "site/Build/Survival019Staging.data.gz",
+                      "sha256":  "AACF3249EF49ADF7927D0D5893439F1AFDA79DE462846F3BDC9F1E54E2CA04F9",
+                      "bytes":  94208869
+                  },
+                  {
+                      "path":  "site/Build/Survival019Staging.framework.js.gz",
+                      "sha256":  "B7918D85DBB87A9A3984785B141B70DA7505E0188FE63DF34C31A1A7403B8766",
+                      "bytes":  87880
+                  },
+                  {
+                      "path":  "site/Build/Survival019Staging.loader.js",
+                      "sha256":  "A7B3D84C372B6E3D22CBB983DEE05A37D36F874A27FBE37F8D42F7EB0F1EE32B",
+                      "bytes":  26983
+                  },
+                  {
+                      "path":  "site/Build/Survival019Staging.wasm.gz",
+                      "sha256":  "DE4C097A064A1F92F079C92B21A91B666704AAC5B23FBC24DFC19B2AA91B34B3",
+                      "bytes":  8347436
+                  },
+                  {
+                      "path":  "site/index.html",
+                      "sha256":  "7198BFED63007BA4C66F07F22AE5CA3BAFEE5E51CC65120F3438962489E65F0C",
+                      "bytes":  6006
+                  },
+                  {
+                      "path":  "site/staging-config.js",
+                      "sha256":  "2F7ACC03E6FE078C2559B415AB6A7E85448594155E58952359736169AB919030",
+                      "bytes":  62
+                  },
+                  {
+                      "path":  "site/StreamingAssets/general_questions.json",
+                      "sha256":  "92C54F83A622044B30BA3AA6CEA787000110C398EB2989116DF396C7F1FD5D69",
+                      "bytes":  422364
+                  },
+                  {
+                      "path":  "site/TemplateData/favicon.ico",
+                      "sha256":  "9C13BEB90EE8F70580D52A21D5233970D1C89E71E4A34A462C22610941C3C77F",
+                      "bytes":  2305
+                  },
+                  {
+                      "path":  "site/TemplateData/fullscreen-button.png",
+                      "sha256":  "21221581673A54B8139D408D4A3F8D2B879E86827D4B6FC53B995FF7A99EE3E9",
+                      "bytes":  175
+                  },
+                  {
+                      "path":  "site/TemplateData/MemoryProfiler.png",
+                      "sha256":  "0CE87BE20D0C24AB6CB73B57DE2004DA261CC2A641E69319C6AE3FE11FC85483",
+                      "bytes":  665
+                  },
+                  {
+                      "path":  "site/TemplateData/progress-bar-empty-dark.png",
+                      "sha256":  "BBEE7131AFE8A3365906240D89184DC86234C119467F390BC4BC6802328FDB4D",
+                      "bytes":  96
+                  },
+                  {
+                      "path":  "site/TemplateData/progress-bar-empty-light.png",
+                      "sha256":  "143696C060AD43D6C30F19FF5F49000927A139A2A1E4C9F45FAFAA2B90D7D2BE",
+                      "bytes":  109
+                  },
+                  {
+                      "path":  "site/TemplateData/progress-bar-full-dark.png",
+                      "sha256":  "3306A6244DCB3926FCA38A28E3CED589DF8FF1BEED955EB17C0BBF01C918BC62",
+                      "bytes":  74
+                  },
+                  {
+                      "path":  "site/TemplateData/progress-bar-full-light.png",
+                      "sha256":  "12395EA785480C5CDF12FADE6E6CBF49666D5BB1CEF7240C113DBCBA6BDC5C87",
+                      "bytes":  84
+                  },
+                  {
+                      "path":  "site/TemplateData/style.css",
+                      "sha256":  "8E3625E108A61DCD1D31303376D9E02D7BDC08921D254E8F4359B892B3825CAA",
+                      "bytes":  1448
+                  },
+                  {
+                      "path":  "site/TemplateData/unity-logo-dark.png",
+                      "sha256":  "C1B72D26C096487DABC948B54BC203F8DAC7ED4E3F5733918798E858ACB4B159",
+                      "bytes":  3042
+                  },
+                  {
+                      "path":  "site/TemplateData/unity-logo-light.png",
+                      "sha256":  "002990AEA0D946833CADC1519D5B7E50A4570BD537A0517DD79A59D3EEC84DA7",
+                      "bytes":  3077
+                  },
+                  {
+                      "path":  "site/TemplateData/unity-logo-title-footer.png",
+                      "sha256":  "9E8B3BDB67C2446D16362FE59449D892100931DBBADFE6A9D923A4142B57A79F",
+                      "bytes":  1151
+                  },
+                  {
+                      "path":  "site/TemplateData/webmemd-icon.png",
+                      "sha256":  "C56F5494640CEDDA273AAD38D58E6AB9DA625D5B3F4D875C0FF92C6192A569C2",
+                      "bytes":  1670
+                  },
+                  {
+                      "path":  "tested-site.manifest.json",
+                      "sha256":  "D4B3E07AFBAD84555CFFA756C7A010A9B5E80B3761273F15A914AD9F80C1D75D",
+                      "bytes":  3230
+                  }
+              ],
+    "Count":  24
+}
